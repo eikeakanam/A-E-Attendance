@@ -15,3 +15,4 @@ In line with the mayor's long term strategy, This project was embarked upon to i
 -Evaluate performance against set benchmark for A&E attendance and admission and processing time rates.
 - Investigate the impact of external factors such as major pandemics on A&E attendance
 - Compare current A&E attendance and admission rates with historical data to identify trends or anomalies.
+
