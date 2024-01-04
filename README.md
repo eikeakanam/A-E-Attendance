@@ -16,3 +16,8 @@ In line with the mayor's long term strategy, This project was embarked upon to i
 - Investigate the impact of external factors such as major pandemics on A&E attendance
 - Compare current A&E attendance and admission rates with historical data to identify trends or anomalies.
 
+## Dataset and Source of Data
+___
+The Monthly A&E Attendances and Emergency Admissions dataset is provided by The NHS, England and accessible at []. It consists of an aggregation of the total number of attendances over the period August 2010 - November 2023 and comprises of records for all A&E types, including Urgent Treatment Centres, Minor Injury Units and Walk-in Centres, as well as the number of patients admitted, discharged or transferred within four hours of arrival.
+
+Additionally, the dataset contains information on emergency admissions, performance metrics, admission processing times, and booked attendances.
