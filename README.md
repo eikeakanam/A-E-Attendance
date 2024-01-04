@@ -34,3 +34,23 @@ This table encompasses data related to waiting and processing times, tracking th
 This table contains records of attendances booked prior to A&E visits, along with corresponding performance metrics measuring the time from arrival to admission, transfer, or discharge.
 
 Common fields, consistent across all three tables, include Period, records of attendance across the three major A&E departments (Type 1-3), and performance values utilizing diverse time metrics.
+
+## Demonstrated Skills
+___
+
+## 1. Data Gathering and Preparation
+
+### Import Datasets
+The dataset, saved on an excel file was imported using the Get Data feature in Power BI desktop thereafter, all three required tables were selected and loaded onto Power Query editor for transformation. This was done using the import storage mode as there wouldnt be any need for data refreshes and loaded to the Power Query editor.
+
+### Merging of Tables
+The 'Activity" and "Performance" tables were merged as a new query using the Period column as the key identifier and disabled query load of the existing table. Upon successful merger of both tables, was left with two distinct fact tables "Activity" and "Booking".
+
+### Data Cleaning and Transformation: 
+Several data transformation procedures were applied to enhance the quality of the dataset, including:
+- Identification and removal of unwanted columns to minimize the model size
+- Rename columns and update data types as required
+- Creation of additional columns: Season (Summer, Winter, Autumn or Spring) using the Period column. This was added to investigate the impact of weather conditions or seasons on the A&E attendance and admissions
+- Cleaning of data by dealing with missing / null values, removal of duplicates and ensured only valid records were added to the model.
+- Checked the quality and distribution of data using Column Quality, Profile and Distribution feature in Power Query Editor.
+
