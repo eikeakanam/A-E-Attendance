@@ -18,6 +18,19 @@ In line with the mayor's long term strategy, This project was embarked upon to i
 
 ## Dataset and Source of Data
 ___
-The Monthly A&E Attendances and Emergency Admissions dataset is provided by The NHS, England and accessible at []. It consists of an aggregation of the total number of attendances over the period August 2010 - November 2023 and comprises of records for all A&E types, including Urgent Treatment Centres, Minor Injury Units and Walk-in Centres, as well as the number of patients admitted, discharged or transferred within four hours of arrival.
+The Monthly A&E Attendances and Emergency Admissions dataset is provided by The NHS, England and accessible at [A&E Attendance Dataset](https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/). It consists of an aggregation of the total number of attendances over the period August 2010 - November 2023 and comprises of records for all A&E types, including Urgent Treatment Centres, Minor Injury Units and Walk-in Centres, as well as the number of patients admitted, discharged or transferred within four hours of arrival.
 
 Additionally, the dataset contains information on emergency admissions, performance metrics, admission processing times, and booked attendances.
+
+The dataset is contained within a single Excel file, comprising three distinct tables or sheets:
+
+- **Activities:**
+This table aggregates A&E attendances and emergency admissions across all three types (Type 1-3). Key fields encompass details about periods, records of attendance across major A&E departments, and performance values measured by various time metrics.
+
+- **Performance:**
+This table encompasses data related to waiting and processing times, tracking the duration from a patient's arrival to admission, transfer, or discharge.
+
+- **Booking:**
+This table contains records of attendances booked prior to A&E visits, along with corresponding performance metrics measuring the time from arrival to admission, transfer, or discharge.
+
+Common fields, consistent across all three tables, include Period, records of attendance across the three major A&E departments (Type 1-3), and performance values utilizing diverse time metrics.
