@@ -54,3 +54,35 @@ Several data transformation procedures were applied to enhance the quality of th
 - Cleaning of data by dealing with missing / null values, removal of duplicates and ensured only valid records were added to the model.
 - Checked the quality and distribution of data using Column Quality, Profile and Distribution feature in Power Query Editor.
 
+## 2. Data Modelling
+
+The data modeling process involved several key steps to structure and relate the fact tables ("Activity" and "Booking") and the dimension table (Date). Here's a concise overview:
+
+**Fact Table Modeling (Activity and Booking):**
+
+- Column Selection:
+Identified and selected relevant columns from the "Activity" and "Booking" tables to include in the model.
+- Data Type Optimization:
+Ensured that data types were appropriate for each column, optimizing for accuracy and efficiency.
+- Naming and Renaming:
+Applied clear and concise naming conventions to enhance model readability.
+Renamed columns as needed for consistency and user-friendliness.
+
+**Dimension Table Creation (Date):**
+- Date Table Generation:
+Created a dedicated Date table to serve as a dimension in the model, containing a comprehensive range of dates covering the dataset period.
+- Date Hierarchy Establishment:
+Established a date hierarchy within the Date table to facilitate time-based analyses and visualizations.
+
+**Relationship Establishment:**
+
+- Key Identification:
+Identified the common key between tables, which was the Period column, representing the time dimension.
+- Relationship Creation:
+Established relationships between the fact tables ("Activity" and "Booking") and the Date table using the Period column as the primary key.
+- Referential Integrity:
+Ensured referential integrity by configuring relationships to properly reflect the associations between the tables.
+Bidirectional Cross-Filtering:
+- Configured bidirectional cross-filtering where necessary to enable seamless navigation and analysis across related tables.
+
+By systematically applying these data modeling steps, the resulting model provided a foundation for robust analysis, efficient queries, and meaningful visualizations, required to derive actionable insights from the dataset.
