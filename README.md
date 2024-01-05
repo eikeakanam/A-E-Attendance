@@ -86,3 +86,38 @@ Bidirectional Cross-Filtering:
 - Configured bidirectional cross-filtering where necessary to enable seamless navigation and analysis across related tables.
 
 By systematically applying these data modeling steps, the resulting model provided a foundation for robust analysis, efficient queries, and meaningful visualizations, required to derive actionable insights from the dataset.
+
+## 3. ANALYSIS AND VISUALIZATION
+
+The A&E Monthly Attendances and Emergency project comprises four insightful reports: Aggregation, Emergency, Performance, and Booking.
+
+A pictorial overview of both reports is displayed below:
+|Aggregation|Booking|
+|----------|--------------|
+|![AE Activity](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/4d581b4c-defa-482f-b9b2-817592e1ae15)|![A&E Booking](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/63ad65df-2b58-457f-9378-b73d246b8297)|
+|![TFL Volume](https://github.com/eikeakanam/TFLBikeRides/assets/75729930/484a1b69-bb28-4b7b-b518-660b5efccfe0)|![TFL Ride Duration](https://github.com/eikeakanam/TFLBikeRides/assets/75729930/d4bbdc2c-8f37-43bf-9694-89139a889b4f)|
+
+
+
+
+
+**Aggregation Report:**
+The Aggregation report offers a comprehensive analysis of total monthly attendance and emergency admissions trends across all NHS regions and providers in England from August 2010 to November 2023. Key performance indicators (KPIs) provide stakeholders with valuable insights for informed decision-making.
+
+**Key Insights:**
+
+- The total number of A&E attendances from January 2023 to November 2023 is 23,389,390, indicating a 2.2% increase compared to the same period in the previous year 2022.
+- The current month, November 2023 witnessed a total attendance of 2,162,122, showing a 2.59% decline from the previous month, October 2023 and a 0.77% decline compared to the same month last year, November 2022.
+- The annual growth rate for A&E attendances across all departments is 8.8% from 2010 - 2023, with an average monthly attendance of 1,912,604. November 2023 experienced a 13% increase compared to the average monthly  attendance.
+- Similar to the previous year (2022), the lowest attendance occurred in February 2023, while December and May recorded the highest attendances in both years respectively.
+- Type 1 attendances accounted for 63% of total A&E visits in the year 2023, representing a 3% decline over the same period in the previous year.
+- Total Type 1 attendances for November 2023 were 1,385,701, indicating a 1.97% decrease from October 2023 and a 0.68% decline compared to November 2022.
+- Seasonal variations show minimal differences, with Autumn slightly leading at 25.49%, closely followed by Summer at 25.39%.
+
+Performance Report:
+The Performance report provides detailed insights into the number, percentage, and trends of patients admitted, transferred, or discharged within or beyond the four-hour benchmark period from patients' arrival time.
+
+Booking Report:
+The Booking report offers detailed information and analytics on all booked attendances and relevant performance metrics.
+
+These reports collectively empower stakeholders with valuable information for strategic decision-making and further analytics.
