@@ -98,7 +98,7 @@ A pictorial overview of both reports is displayed below:
 
 |Performance|Emergency|
 |----------|--------------|
-|![AE Performance](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/a7223743-c73f-4c60-b630-4b6f96c5ce0e)|!![A E EMergency](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/194cf571-621c-4a4a-b1fc-91515b2d6942)|
+|![AE Performance](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/a7223743-c73f-4c60-b630-4b6f96c5ce0e)|![A E EMergency](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/194cf571-621c-4a4a-b1fc-91515b2d6942)|
 
 
 **Aggregation Report:**
