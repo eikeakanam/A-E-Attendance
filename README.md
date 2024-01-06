@@ -122,11 +122,38 @@ The Aggregation report offers a comprehensive analysis of total monthly attendan
   
 ![Activity 2](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/fd123a3c-62a4-4f62-910f-d18dfde073db)
 
-
-Performance Report:
+**Performance Report:**
 The Performance report provides detailed insights into the number, percentage, and trends of patients admitted, transferred, or discharged within or beyond the four-hour benchmark period from patients' arrival time.
 
-Booking Report:
+**Key Insights**
+- **Total Discharged, Transferred, or Admitted Attendances (Jan - Nov 2023):**
+The cumulative number of attendances discharged, transferred, or admitted between January and November 2023 (YTD) stands at 16,114,039. This reflects an approximate 10.2% increase compared to the corresponding period last year.
+
+- **Monthly Performance (November 2023):**
+In November 2023, a total of 1,508,000 patients were discharged, transferred, or admitted. This marks a 3.3% decline from the previous month (October 2023) and a 12.5% increase compared to November 2022.
+
+![pm 1](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/2b1cef76-b1d6-4d39-a26d-12d209a7c37f)
+
+- **Delayed Attendances (November 2023):**
+Notably, 654,122 attendances experienced delays in being discharged, transferred, or admitted after 4 hours in November 2023. This represents a 0.95% decline from October 2023 and an 8.6% increase compared to November 2022.
+
+- **Performance Trends (Type 1, Type 2, and Type 3 Attendances):**
+Performance for Type 2 and 3 attendances has consistently remained above the 90% mark. However, there has been a notable decline in performance for Type 1 attendances over the past 5 years.
+
+- **Type 1 Performance (November 2023):**
+In November 2023, only 55% of Type 1 attendances were discharged, transferred, or admitted within 4 hours. This represents a 1% decrease compared to the previous month (October 2023).
+
+- **Overall Performance (November 2023):**
+The overall performance for November 2023 is 60.9%, reflecting a 0.7% decline compared to November 2022 and a 0.5% decrease compared to the previous month (October 2023).
+
+- **Annual Performance Averages (Jan - Nov 2023):**
+Throughout the calendar year (January - November 2023), the average performance rating for Type 1 attendances was 58%, while the overall performance (inclusive of Type 2 and 3) currently stands at approximately 73%. Both figures fall considerably short of the 95% benchmark performance rate.
+
+![pm 2](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/08d98b12-dd15-4c51-b82a-7a239fc7a18c)
+
+![pm 3](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/40e141b8-6b6a-457b-8a0c-c39242de202c)
+
+**Booking Report:**
 The Booking report offers detailed information and analytics on all booked attendances and relevant performance metrics.
 
 These reports collectively empower stakeholders with valuable information for strategic decision-making and further analytics.
