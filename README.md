@@ -181,4 +181,4 @@ Over 57% of booked attendances in the year 2023 were attributed to Type 3, while
 ![bk3](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/8ebe408e-05a5-4101-9166-ec00e2cfef96)
 
 **Emergency Report**
-These reports collectively empower stakeholders with valuable information for strategic decision-making and further analytics.
+These reports collectively empower stakeholders with valuable information for strategic decision-making and further analytics.  
