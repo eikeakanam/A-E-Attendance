@@ -3,6 +3,9 @@
 ___
 ## INTRODUCTION AND PROBLEM STATEMENT
 ___
+
+![_127932691_photo08-12-2022104927](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/44077a56-a6b9-4d90-98b5-9a4d119c5b6c)
+
 The availability and accuracy of A&E Attendances and Emergency Admissions data is of utmost importance to the NHS, Government and major healthcare stakeholders within the United Kingdom. 
 Timely and efficient analytics of these data provide critical insights into the dynamics of emergency healthcare utilization, helping healthcare professionals make informed decisions, allocate resources efficiently, and enhance the overall quality of patient care.
 
@@ -86,6 +89,8 @@ Bidirectional Cross-Filtering:
 - Configured bidirectional cross-filtering where necessary to enable seamless navigation and analysis across related tables.
 
 By systematically applying these data modeling steps, the resulting model provided a foundation for robust analysis, efficient queries, and meaningful visualizations, required to derive actionable insights from the dataset.
+
+![modell](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/b8a8d95d-571c-4de2-bbb7-5260b863a9b8)
 
 ## 3. ANALYSIS AND VISUALIZATION
 
@@ -208,3 +213,25 @@ About 79% of patients were admitted within approximately 4 hours following the d
 ![EM2](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/c028d474-d62e-471e-8b25-6e1f64a5f852)
 
 
+## 4. Pubish Report and Creation of Dashboard
+___
+The A&E Attendance and Admissions report was initially developed in Power BI Desktop and later published to my Workspace on Power BI Service. 
+
+Following this, a dashboard was created within my Power BI Service workspace, by pinning visuals from the report, as seen in the image below.
+
+## Conclusion and Recommendation
+___
+
+Based on the insights gathered from the A&E Attendance and Admissions report, here are some possible recommendations:
+
+- **Performance Improvement for Type 1 Attendances:**
+Given the consistent decline in performance for Type 1 attendances over the last five years, it is advisable to implement strategies aimed at improving processing times and ensuring a higher percentage of Type 1 attendances are admitted, transferred, or discharged within the four-hour benchmark.
+
+- **Enhanced Resource Allocation:**
+Considering the significant increase in overall attendances and emergency admissions, there may be a need for reassessing and potentially increasing resource allocations, particularly staffing and facilities, to manage the higher demand effectively.
+
+- **Targeted Improvement for Type 2 and 3 Attendances:**
+While Type 2 and 3 attendances have maintained performance levels above the 90% mark, continual efforts should be made to sustain and potentially improve these high-performance rates.
+
+- **Continuous Monitoring and Adaptation:**
+Regularly monitor performance metrics, emergency admissions, and attendance trends. Implement an agile approach to adapt strategies based on changing circumstances, ensuring the healthcare system remains responsive and effective.
