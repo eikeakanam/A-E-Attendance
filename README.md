@@ -156,4 +156,29 @@ Throughout the calendar year (January - November 2023), the average performance 
 **Booking Report:**
 The Booking report offers detailed information and analytics on all booked attendances and relevant performance metrics.
 
+- **Total Booked Attendances (Current Period):**
+As of this report, the total booked attendances stand at 2,598,252, showing a remarkable annual growth rate of 42.2%.
+
+![bk1](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/b1d31611-934d-45f3-b657-6984e6f3db5e)
+
+- **Annual Performance Growth (2023 vs. 2022):**
+The total booked attendances for the current year (2023) reached 770,701, indicating a 2.5% increase compared to the same period in the previous year, 2022.
+
+- **Monthly Booked Attendances (November 2023):**
+Booked attendances for November 2023 totaled 71,557, reflecting a 0.5% increase compared to October 2023 and a substantial 4.31% increase compared to November 2022.
+
+- **Performance Trends (November 2023):**
+The overall performance for November 2023 is reported at 87.27%, which is 0.49% less than the previous month (October 2023) but represents a 0.24% increase compared to November 2022.
+
+![bk2](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/ec77403f-7d4c-4b93-abd5-96581f054a85)
+
+- **Average Overall Performance (Jan - Nov 2023):**
+The average overall performance rating for booked attendances in the current year (January - November 2023) is 89.4%, reflecting a 1.2% increase compared to the previous year, 2022. However, this figure still falls short of the 95% benchmark set for attendances.
+
+- **Type Distribution (2023):**
+Over 57% of booked attendances in the year 2023 were attributed to Type 3, while Type 1 accounted for approximately 42% of booked appearances.
+
+![bk3](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/8ebe408e-05a5-4101-9166-ec00e2cfef96)
+
+**Emergency Report**
 These reports collectively empower stakeholders with valuable information for strategic decision-making and further analytics.
