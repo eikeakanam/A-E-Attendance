@@ -219,7 +219,7 @@ The A&E Attendance and Admissions report was initially developed in Power BI Des
 
 Following this, a dashboard was created within my Power BI Service workspace, by pinning visuals from the report, as seen in the image below.
 
-## Conclusion and Recommendation
+## 5. Conclusion and Recommendation
 ___
 
 Based on the insights gathered from the A&E Attendance and Admissions report, here are some possible recommendations:
