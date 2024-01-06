@@ -213,7 +213,7 @@ About 79% of patients were admitted within approximately 4 hours following the d
 ![EM2](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/c028d474-d62e-471e-8b25-6e1f64a5f852)
 
 
-## 4. Pubish Report and Creation of Dashboard
+## 4. Publish Report and Creation of Dashboard
 ___
 The A&E Attendance and Admissions report was initially developed in Power BI Desktop and later published to my Workspace on Power BI Service. 
 
