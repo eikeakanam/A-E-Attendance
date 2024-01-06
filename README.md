@@ -89,19 +89,19 @@ By systematically applying these data modeling steps, the resulting model provid
 
 ## 3. ANALYSIS AND VISUALIZATION
 
-The A&E Monthly Attendances and Emergency project comprises four insightful reports: Aggregation, Emergency, Performance, and Booking.
+The A&E Monthly Attendances and Emergency project comprises four insightful reports: Attendance, Emergency, Performance, and Booking.
 
 A pictorial overview of both reports is displayed below:
-|Aggregation|Booking|
+|Attendance|Booking|
 |----------|--------------|
 |![AE Activity](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/4d581b4c-defa-482f-b9b2-817592e1ae15)|![A&E Booking](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/63ad65df-2b58-457f-9378-b73d246b8297)|
 
 |Performance|Emergency|
 |----------|--------------|
-|![AE Performance](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/a7223743-c73f-4c60-b630-4b6f96c5ce0e)|![A E EMergency](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/194cf571-621c-4a4a-b1fc-91515b2d6942)|
+|![AE Performance](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/a7223743-c73f-4c60-b630-4b6f96c5ce0e)|![Emergencyy](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/95a19462-e826-4810-a057-2701e59e2042)|
 
 
-**Aggregation Report:**
+**ATTENDANCE REPORT**
 The Aggregation report offers a comprehensive analysis of total monthly attendance and emergency admissions trends across all NHS regions and providers in England from August 2010 to November 2023. Key performance indicators (KPIs) provide stakeholders with valuable insights for informed decision-making.
 
 **Key Insights:**
@@ -122,7 +122,7 @@ The Aggregation report offers a comprehensive analysis of total monthly attendan
   
 ![Activity 2](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/fd123a3c-62a4-4f62-910f-d18dfde073db)
 
-**Performance Report:**
+**PERFORMANCE REPORT**
 The Performance report provides detailed insights into the number, percentage, and trends of patients admitted, transferred, or discharged within or beyond the four-hour benchmark period from patients' arrival time.
 
 **Key Insights**
@@ -153,7 +153,7 @@ Throughout the calendar year (January - November 2023), the average performance 
 
 ![pm 3](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/40e141b8-6b6a-457b-8a0c-c39242de202c)
 
-**Booking Report:**
+**BOOKING REPORT**
 The Booking report offers detailed information and analytics on all booked attendances and relevant performance metrics.
 
 - **Total Booked Attendances (Current Period):**
@@ -180,5 +180,31 @@ Over 57% of booked attendances in the year 2023 were attributed to Type 3, while
 
 ![bk3](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/8ebe408e-05a5-4101-9166-ec00e2cfef96)
 
-**Emergency Report**
-These reports collectively empower stakeholders with valuable information for strategic decision-making and further analytics.  
+**EMERGENCY REPORT:**
+THE emergency report provides detailed information about emergency admissions via A and E and Others as well as the recorded performances in processing admissions within the admissible timeframe.
+
+**Key Insights**
+
+- **Total Emergency Admissions (Jan - Nov 2023):**
+The total number of emergency admissions for the current year is 5,732,146, reflecting a notable 5.0% increase compared to the same period in the previous year, 2022.
+
+![em1](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/2686043d-b207-442a-9261-c66ead1202e0)
+
+- **Admission Distribution (Jan - Nov 2023):**
+Of the total admissions in the year (January - November 2023), approximately 74% (4,247,879) were admissions via A&E, while the remaining 26% were admissions not conducted via A&E.
+
+- **Type 1 Emergency Admissions (2023):**
+Type 1 Emergency admissions account for about 73% of the total admissions in the year 2023.
+
+![em3](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/1ef8d748-7a34-4bb0-a09e-f8bc282d5115)
+
+- **Monthly Emergency Admissions (November 2023):**
+Total emergency admissions for November 2023 reached 545,636, indicating a slight 0.36% decrease compared to the previous month (October 2023) and a significant 5.8% increase compared to the total admissions in November 2022. 
+Additionally, the emergency admissions for November 2023 are approximately 14% higher than the average monthly emergency admissions (478,440) recorded over the period.
+
+- **Admission Timing Trends (2023 vs. 2022):**
+About 79% of patients were admitted within approximately 4 hours following the decision to admit, while 21% were admitted over 12 hours after the decision to admit in the year 2023. This contrasts with the previous year, 2022, where approximately 82% of patients were admitted within the first four hours following the decision to admit.
+
+![EM2](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/c028d474-d62e-471e-8b25-6e1f64a5f852)
+
+
