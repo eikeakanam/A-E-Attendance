@@ -217,7 +217,7 @@ About 79% of patients were admitted within approximately 4 hours following the d
 ___
 The A&E Attendance and Admissions report was initially developed in Power BI Desktop and later published to my Workspace on Power BI Service. 
 
-Following this, a dashboard was created within my Power BI Service workspace, by pinning visuals from the report, as seen in the image below.
+Following this, a dashboard was created within my Power BI Service workspace, by pinning visuals from the report
 
 ## 5. Conclusion and Recommendation
 ___
