@@ -105,6 +105,8 @@ A pictorial overview of both reports is displayed below:
 |----------|--------------|
 |![AE Performance](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/a7223743-c73f-4c60-b630-4b6f96c5ce0e)|![Emergencyy](https://github.com/eikeakanam/A-E-Attendance/assets/75729930/95a19462-e826-4810-a057-2701e59e2042)|
 
+### LINK TO DETAILED POWER BI REPORT >>> [A&E ATTENDANCES REPORT](https://app.powerbi.com/groups/me/reports/db2fcf57-2b48-4030-a49f-5138290ed862?ctid=ac5ac3e2-e369-4329-952c-a36e8474e997&pbi_source=linkShare&bookmarkGuid=5618445d-2970-4f79-9868-3dea1e9cbcb4)
+___
 
 **ATTENDANCE REPORT**
 The Aggregation report offers a comprehensive analysis of total monthly attendance and emergency admissions trends across all NHS regions and providers in England from August 2010 to November 2023. Key performance indicators (KPIs) provide stakeholders with valuable insights for informed decision-making.
