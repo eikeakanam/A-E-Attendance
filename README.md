@@ -10,7 +10,6 @@ The availability and accuracy of A&E Attendances and Emergency Admissions data i
 Timely and efficient analytics of these data provide critical insights into the dynamics of emergency healthcare utilization, helping healthcare professionals make informed decisions, allocate resources efficiently, and enhance the overall quality of patient care.
 
 Having previously visited and benefited from the good works of the professional staff at the A & E arm of the NHS late last year and experienced first habd what was obtainable at the department, I decided to embark on this project to obtain useful information about A&E services and its overall impact on the healthcare sector in the UK. The project is setout to answer the following questions
-In line with the mayor's long term strategy, This project was embarked upon to investigate the following observations and more:
 - Identify patterns and trends in monthly A&E attendances and admissions over time.
 - Analyze if there are seasonal variations in A&E attendances and admissions.
 - Identify the most common reasons for A&E attendances.
